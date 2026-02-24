@@ -76,6 +76,7 @@ Version controlled via GitHub
 Deployed on Streamlit Cloud
 
 🔗 Live App: (https://world-population-ml-app-msyzgaskcwwdojp7dpm4yr.streamlit.app/)
+
 🔗 GitHub Repository: https://github.com/jwelaktar1004-pixel/world-population-ml-app
 
 📈 Key Features of the Web App
